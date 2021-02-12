@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service of a projection view'
+define service ZSRVD_PROJ_FLIGHT {
+  expose ZDDLS_PROJ_FLIGHT;
+}
