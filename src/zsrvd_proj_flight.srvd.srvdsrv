@@ -1,4 +1,4 @@
-@EndUserText.label: 'Service of a projection view 2'
+@EndUserText.label: 'Service of a projection view 3'
 define service ZSRVD_PROJ_FLIGHT {
   expose ZDDLS_PROJ_FLIGHT;
 }
