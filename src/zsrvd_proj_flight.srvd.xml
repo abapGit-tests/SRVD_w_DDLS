@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_SRVD" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
@@ -8,7 +8,7 @@
     <DESCRIPTION>Service</DESCRIPTION>
     <LANGUAGE>EN</LANGUAGE>
     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
-    
+    <SOURCE_URI>./zsrvd_proj_flight/source/main</SOURCE_URI>
     <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
     <SOURCE_ORIGIN_DESCRIPTION>ABAP Development Tools basd</SOURCE_ORIGIN_DESCRIPTION>
     <SRVD_SOURCE_TYPE>S</SRVD_SOURCE_TYPE>
