@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_SRVD" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <SRVD>
     <NAME>ZSRVD_PROJ_FLIGHT</NAME>
     <TYPE>SRVD/SRV</TYPE>
-    <DESCRIPTION>Service of a projection view</DESCRIPTION>
+    <DESCRIPTION>Service</DESCRIPTION>
     <LANGUAGE>EN</LANGUAGE>
     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
     <SOURCE_URI>./zsrvd_proj_flight/source/main</SOURCE_URI>
